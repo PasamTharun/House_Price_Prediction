@@ -1,3 +1,3 @@
 # House_Price_Prediction
 
-<h2>Authur:-Pasam Tharun</h2>
+<h2>Author:-Pasam Tharun</h2>
